@@ -1,0 +1,24 @@
+Site to scrape,Course Link,Title ,Description ,Description ,Key skills,Prerequitsites,syllabus,price
+,https://talentedge.com/iit-delhi/operations-management-and-analytics-course,,,,Capacity planning | item2 | item3 | item4,"Bachelor’s degree or Diploma holder, from a recognized university | preq3","<?xml version=""1.0""?>
+<mainmodule>
+  <module1>
+    <heading>Classification Introduction</heading>
+    <subheading>
+      <item1>Fundamentals of HR</item1>
+      <item2>this is the second subheading of module 1</item2>
+    </subheading>
+  </module1>
+  <module2>
+    <heading>This is the heading of module 2</heading>
+    <subheading>
+      <item1> this is the first subheading of module 2</item1>
+      <item2>this is the second subheading of module 2</item2>
+    </subheading>
+  </module2>
+</mainmodule>",INR 100000
+,https://talentedge.com/xlri-jamshedpur/financial-management-course,,,,,,,
+,https://talentedge.com/xlri-jamshedpur/human-resource-management-course,,,,,,,
+,https://talentedge.com/iim-kozhikode/professional-certificate-program-marketing-sales-management-iim-kozhikode,,,,,,,
+,https://talentedge.com/iim-kozhikode/professional-certificate-programme-in-hr-management-and-analytics,,,,,,,
+,,,,web scrapping,,,,
+,,python,scrapy,custom xpaths,,,,
