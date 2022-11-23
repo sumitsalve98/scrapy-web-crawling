@@ -1,0 +1,491 @@
+Title,Short_Description,Description,Key_skills,Prerequitsites,syllabus,Price
+Certificate Programme In Operations Management And Analytics,"Programme Offered by Continuing Education Programme (CEP), IIT Delhi, Supply Chain Management, Analytics","The course is designed to introduce participants (decision-makers from operations as well as non-operations background) to the fundamentals of operations management and analytics. The programme will be taught using business school case study pedagogy and will use a mix of live lectures and self-paced learning modules. The programme aims at enabling the learners to make use of operations management from the point of view of fundamental concepts related to operations and the use of analytics. New Managers will get a chance to build strong operations foundations and analyse business data to gain insights as well as improve processes.
+
+Seasoned Managers will find a new perspective of looking at the company data and drive better-informed decisions in their firms.
+
+Online Certificate programmes are offered by the Indian Institute of Technology Delhi under the aegis of Continuing Education Programme (CEP) so that the Institute can realise its vision of serving as a valuable resource for industry and society, and fulfil its mission to develop human potential to its fullest extent so that intellectually capable and imaginatively gifted leaders can emerge in a range of professions.",Capacity planning | Managing Workflows | Cost Optimization | Analytical skills for planning layout & production,"Bachelor’s degree or Diploma holder, from a recognized university. ","<?xml version=""1.0""?>
+<mainmodule>
+ <module1>
+  <heading>Foundation to Operations Management Analytics</heading>
+  <subheading>
+   <item1>Introduction to Concepts, Tools, Techniques, and Analytics</item1>
+   <item2>Traditional and Advanced Production Systems</item2>
+   <item3>Need for Product Re-design and Development</item3>
+  </subheading>
+ </module1>
+ <module2>
+  <heading>Production and Capacity Planning</heading>
+  <subheading>
+   <item1>Chase and production level strategy</item1>
+   <item2>Mixed strategy</item2>
+   <item3>Capacity management (CPOF and Capacity Bill, Resource profile)</item3>
+  </subheading>
+ </module2>
+ <module3>
+  <heading>Maintenance and Queue Management</heading>
+  <subheading>
+   <item1>Preventive and proactive maintenance policy</item1>
+   <item2>Queue planning (M/M/1, M/M/S, M/D/1 models for jobs queue management)</item2>
+  </subheading>
+ </module3>
+ <module4>
+  <heading>Quality and Six Sigma in Operations</heading>
+  <subheading>
+   <item1>Six-Sigma process in operations</item1>
+   <item2>Quality control charts (X and R-Charts, p & np charts)</item2>
+  </subheading>
+ </module4>
+ <module5>
+  <heading>Inventory Management</heading>
+  <subheading>
+   <item1>Types of Inventory costs</item1>
+   <item2>EOQ/POQ/PPB models</item2>
+   <item3>Multi-criteria ABC Analysis</item3>
+  </subheading>
+ </module5>
+ <module6>
+  <heading>Materials Resource Planning</heading>
+  <subheading>
+   <item1>MRP Construction</item1>
+   <item2>MRP Nervousness</item2>
+  </subheading>
+ </module6>
+ <module7>
+  <heading>Forecasting and Demand Management</heading>
+  <subheading>
+   <item1>Time series models (Exponential, Adjusted Exponential, Winter-holt model)</item1>
+   <item2>Regression (Linear trend model)</item2>
+  </subheading>
+ </module7>
+ <module8>
+  <heading>Predictive Analytics</heading>
+  <subheading>
+   <item1>Demand forecasting</item1>
+   <item2>Business Simulation in Operations</item2>
+  </subheading>
+ </module8>
+ <module9>
+  <heading>Descriptive Analytics</heading>
+  <subheading>
+   <item1>Vendors selection and evaluation</item1>
+   <item2>Risk Mitigation in operations</item2>
+  </subheading>
+ </module9>
+ <module10>
+  <heading>Facility Planning and Project Management</heading>
+  <subheading>
+   <item1>Product, process, fixed and cellular layout</item1>
+   <item2>CPM and PERT analysis of project</item2>
+  </subheading>
+ </module10>
+ <module11>
+  <heading>Prescriptive Analytics</heading>
+  <subheading>
+   <item1>Production Management</item1>
+   <item2>Facility Layout Planning</item2>
+  </subheading>
+ </module11>
+</mainmodule>",100000
+Professional Certificate Program In Marketing And Sales Management,Brand Sales & Marketing,"Crafting a great product is just the first half of the story of running a successful business. Generating revenue is dependent upon making the potential customers aware of the product, its advantages and the reasons why it is better than its competitors. The second half of your business story hence requires you to communicate this information effectively to the masses and the responsibility of writing this story rests on the shoulders of the Marketing & Sales teams. Thus, it is evident that the success of a product and an organization relies heavily on the robustness and seamless collaboration between its Marketing & Sales functions.
+
+The certification course in “Marketing & Sales” aims to improve the knowledge and skill sets of working professionals concerning the alignment of marketing and sales functions to deliver superior customer value and to achieve higher profitability. More specifically, the course has been developed in such a way that it deepens the participant’s understanding of marketing management concepts so that they will be able to appreciate the critical role of the same in the sales planning and management functions. This improves the participant’s ability to comprehend the ways and means to deliver superior customer value by utilizing the potential of sales. Thus, the successful completion of this course will provide directions to a new career orientation by re-orienting their marketing foundations with a strong base in the area of sales management.
+
+Upon successful completion of this course, participants will be able to:
+
+• Understand the foundations of marketing and how to connect them with sales
+
+• Have better clarity in terms of basic marketing parameters and their interlinkages with sales functions
+
+• Possess improved knowledge and skill sets that support marketing related planning and execution in organizations through the sales team’s contributions in the areas of product development, pricing, place related decisions, and marketing promotion mix decisions
+
+• Deepen the awareness and understanding of the typical conflicts between marketing and sales, and how to resolve them
+
+• Equip themselves to plan and prepare timely recommendations that support the alignment of sales & marketing",Marketing Management | Communication | Decision-making | Sales Management,For Indian Participants – Graduates (10+2+3) or Diploma Holders (only 10+2+3) from a recognized University (UGC/AICTE/DEC/AIU/State Government) in any discipline. | Diploma Holders (10+3) will be considered on a case-to-case basis subject to having a minimum of 10 Years of work experience in a supervisory role at the time of applying for this course. | For International Participants – Graduation or equivalent degree from any recognized University or Institution in their respective country. | Minimum of 3 years overall experience in Marketing & Sales function or at least 5 years of work experience in a business enterprise in a managerial position ,"<?xml version=""1.0""?>
+<mainmodule>
+ <module1>
+  <heading>Role of Marketing Research for Better Marketing and Sales Decision-Making</heading>
+  <subheading>
+  </subheading>
+ </module1>
+ <module2>
+  <heading>Marketing and Sales Analytics</heading>
+  <subheading>
+  </subheading>
+ </module2>
+ <module3>
+  <heading>Data-driven Insights in Marketing and Sales</heading>
+  <subheading>
+  </subheading>
+ </module3>
+ <module4>
+  <heading>Marketing Mix Modeling</heading>
+  <subheading>
+  </subheading>
+ </module4>
+ <module5>
+  <heading>Developing Marketing and Sales Dashboard</heading>
+  <subheading>
+  </subheading>
+ </module5>
+ <module6>
+  <heading>Sales Forecasting and Models</heading>
+  <subheading>
+  </subheading>
+ </module6>
+ <module7>
+  <heading>Product Analytics</heading>
+  <subheading>
+  </subheading>
+ </module7>
+ <module8>
+  <heading>Understanding the Marketing Potential through Data</heading>
+  <subheading>
+  </subheading>
+ </module8>
+ <module9>
+  <heading>Product Potentiality and Feasibility Analysis</heading>
+  <subheading>
+  </subheading>
+ </module9>
+ <module10>
+  <heading>Customer Analytics for Better Marketing and Sales</heading>
+  <subheading>
+  </subheading>
+ </module10>
+ <module11>
+  <heading>Developing Branding Strategies and Plans</heading>
+  <subheading>
+  </subheading>
+ </module11>
+ <module12>
+  <heading>Digital Marketing Analytics</heading>
+  <subheading>
+  </subheading>
+ </module12>
+ <module13>
+  <heading>Marketing Strategy</heading>
+  <subheading>
+  </subheading>
+ </module13>
+ <module14>
+  <heading>Emerging Trends in Understanding Consumers</heading>
+  <subheading>
+  </subheading>
+ </module14>
+ <module15>
+  <heading>Customer Relationship Management</heading>
+  <subheading>
+  </subheading>
+ </module15>
+ <module16>
+  <heading>Customer Experience Management</heading>
+  <subheading>
+  </subheading>
+ </module16>
+ <module17>
+  <heading>Selling</heading>
+  <subheading>
+  </subheading>
+ </module17>
+ <module18>
+  <heading>Sales Force Management</heading>
+  <subheading>
+  </subheading>
+ </module18>
+ <module19>
+  <heading>Sales Force Compensation</heading>
+  <subheading>
+  </subheading>
+ </module19>
+ <module20>
+  <heading>Sales Territory</heading>
+  <subheading>
+  </subheading>
+ </module20>
+ <module21>
+  <heading>Key Account Management</heading>
+  <subheading>
+  </subheading>
+ </module21>
+ <module22>
+  <heading>Negotiation and Influencing</heading>
+  <subheading>
+  </subheading>
+ </module22>
+ <module23>
+  <heading>Design Thinking</heading>
+  <subheading>
+  </subheading>
+ </module23>
+ <module24>
+  <heading>Campus Component</heading>
+  <subheading>
+   <item1>The dates for the 2 day In-Campus immersion session to be held at IIM Kozhikode will be communicated in due course. Attendance to the in-campus module is MANDATORY for all participants. The in-campus modules are subjected to the conditions that prevail at the point of time. These conditions pertain to the Pandemic or other unavoidable reasons. In case the current situation maintains the status quo, adequate alternate options with regards to the in-campus modules will be made available via online sessions.</item1>
+  </subheading>
+ </module24>
+</mainmodule>",160000
+Professional Certificate Programme In HR Management And Analytics,"Human Resources, Analytics","This program deals with the collection and management of talent data and its effective application. The course helps to develop the HR analytical skills to handle the data-driven insights and improve the workforce. The managerial skills acquired during this program helps to take informed decisions and promote employee experience. It is targeted for HR practitioners who intend to learn and utilize organizational data for prescriptive and predictive recommendations which will help them to meet business goals. Learn the fundamentals and strategic role of HR, valuation, benchmarking, KPI dashboards, performance and goal setting, talent sourcing and acquisition, retention, and employee wellness.","Talent sourcing | Employee retention, | Workforce planning | Development Analytics | HR best practices",- Minimum 2 years work experience if you have a Bachelor's Degree | - Freshers can apply if you have a Master’s Degree. ,"<?xml version=""1.0""?>
+<mainmodule>
+ <module1>
+  <heading>Introduction to HR Analytics</heading>
+  <subheading>
+   <item1>Fundamentals of HR</item1>
+   <item2>Strategic Role of HR</item2>
+   <item3>People Analytics - Basics</item3>
+   <item4>Basics of Statistics</item4>
+   <item5>Framework for Problem Solving - Define Problem, Collect Data, Build the model, Evaluate and Critique the model, Present Results and Benefits, Deploy Model</item5>
+   <item6>Critical stages of Talent life cycle</item6>
+   <item7>Case Study - HR Decision Making: Issue Identification and Problem Solvinga</item7>
+  </subheading>
+ </module1>
+ <module2>
+  <heading>HR Practices and Benchmarking</heading>
+  <subheading>
+   <item1>Understanding Important HR Metrics tracked across the Overall Employee Journey</item1>
+   <item2>HR Valuations</item2>
+   <item3>Benchmarking</item3>
+   <item4>Dashboarding of KPIs (Tableau, Excel )</item4>
+   <item5>Performance and goal setting</item5>
+   <item6>Providing Performance Feedback</item6>
+  </subheading>
+ </module2>
+ <module3>
+  <heading>Workforce Planning and Talent Sourcing Analytics</heading>
+  <subheading>
+   <item1>Workforce planning and its use</item1>
+   <item2>Steps to workforce planning- supply, demand, gap and solution analysis (Markov chain, scatter plot, trend analysis)</item2>
+   <item3>Job analysis - steps to come out with JD</item3>
+   <item4>Types of job evaluation - concepts and metrices</item4>
+   <item5>Types of job redesign - concepts and metrices</item5>
+  </subheading>
+ </module3>
+ <module4>
+  <heading>Talent Acquisition and Development Analytics</heading>
+  <subheading>
+   <item1>Key factors in selection that determining quality of hire</item1>
+   <item2>Predicting Performance</item2>
+   <item3>Measures to track - predictive analysis</item3>
+   <item4>Acquisition effectiveness</item4>
+   <item5>Employee training and development analytics</item5>
+  </subheading>
+ </module4>
+ <module5>
+  <heading>Induction and Culture Fit- Value Congruence</heading>
+  <subheading>
+   <item1>Understanding Organizational Culture; Types of cultures</item1>
+   <item2>Socialization process; stages of on-boarding</item2>
+   <item3>Create an Onboarding predictive model</item3>
+   <item4>Value congruence</item4>
+  </subheading>
+ </module5>
+ <module6>
+  <heading>Talent Engagement Analytics</heading>
+  <subheading>
+   <item1>Importance of employee engagement</item1>
+   <item2>Major drivers of employee engagement</item2>
+   <item3>Employee engagement surveys</item3>
+   <item4>Variations in employee engagement across days</item4>
+   <item5>Employee engagement levels in teams</item5>
+  </subheading>
+ </module6>
+ <module7>
+  <heading>Collaboration Analytics - Building Effective Systems</heading>
+  <subheading>
+   <item1>What is Collaboration; importance of collaboration</item1>
+   <item2>Analyzing collaboration</item2>
+   <item3>Organizational network analysis</item3>
+   <item4>Intervening in organizational networks</item4>
+  </subheading>
+ </module7>
+ <module8>
+  <heading>Talent Analytics- Performance, Potential & Rewards</heading>
+  <subheading>
+   <item1>Jobs, roles and competencies</item1>
+   <item2>Performance vs potential - key decision dilemmas</item2>
+   <item3>Rewards - key considerations</item3>
+  </subheading>
+ </module8>
+ <module9>
+  <heading>Talent Retention Analytics</heading>
+  <subheading>
+   <item1>Why do employees leave organizations?</item1>
+   <item2>Different talent retention approaches/strategies</item2>
+   <item3>Measures to track</item3>
+  </subheading>
+ </module9>
+ <module10>
+  <heading>Employee Wellness- Health & Safety</heading>
+  <subheading>
+   <item1>What is employee wellness; why care about employee wellness</item1>
+   <item2>Employee wellness program best practices</item2>
+   <item3>Using predictive analytics to optimize employee wellness</item3>
+  </subheading>
+ </module10>
+ <module11>
+  <heading>Capstone Project</heading>
+  <subheading>
+   <item1>Engage in collaborative learning by working with your peeps</item1>
+   <item2>Benefit by getting guidance from industry mentors</item2>
+   <item3>Get personalised feedback on your submissions</item3>
+  </subheading>
+ </module11>
+</mainmodule>",105932
+Executive Development Program In Advanced Financial Management,Finance,"Enhance your Business’ Financial Performance
+
+India boasts of a diversified and robust financial sector undergoing rapid expansion. The sector comprises banks, insurance providers, non-banking financial organizations, co-operatives, mutual funds and other smaller financial entities. As per a report by India Brand Equity Foundation:
+
+• The commercial banks accounting for more than 64 per cent of the total assets held by the financial system
+
+• Total Assets Under Management (AUM) of the Mutual Funds industry stood at Rs 23.80 trillion (US$ 340.48 billion) between April 2018-February 2019
+
+• The total first-year premium of life insurance companies reached US$ 30.72 billion (Rs 214,673 crore) during FY19
+
+• The total amount of Initial Public Offerings (IPO) increased to US$ 1.2 billion raised from 37 between April – June 2018
+
+• India’s mobile wallet industry is estimated to grow at a Compound Annual Growth Rate (CAGR) of 150 per cent to reach US$ 4.4 billion by 2022 while mobile wallet transactions to touch Rs 32 trillion (USD $ 492.6 billion) by 2022
+
+The course on Advanced Financial Management, from XLRI, has been specially designed for working professionals in the corporate finance domain who wish to gain an understanding of advanced concepts and techniques required to solve complex financial challenges of an organization. The course is structured to expose the participants to factors affecting financial performance, modes of capital management, risk minimization strategies and guiding principles on investment decisions.",Risk Management | Financial Planning | Decision-Making | Budgeting | Critical Thinking,For Indian Participants – Graduates (10+2+3) or Diploma Holders (only 10+2+3) from a recognized university (UGC/AICTE/DEC/AIU/State Government) in any discipline | For International Participants – Graduation or equivalent degree from any recognized University or Institution in their respective country | Minimum of 4 years of relevant work experience in the finance domain ,"<?xml version=""1.0""?>
+<mainmodule>
+ <module1>
+  <heading>Analysis of Financial Performance</heading>
+  <subheading>
+  </subheading>
+ </module1>
+ <module2>
+  <heading>Risk and Return Analysis</heading>
+  <subheading>
+  </subheading>
+ </module2>
+ <module3>
+  <heading>Financing Structure and Funding Choices</heading>
+  <subheading>
+  </subheading>
+ </module3>
+ <module4>
+  <heading>Evaluating Capital Investment & Project Financing Decisions</heading>
+  <subheading>
+  </subheading>
+ </module4>
+ <module5>
+  <heading>Risk Evaluation and Mitigation in Capital Investment Decisions</heading>
+  <subheading>
+  </subheading>
+ </module5>
+ <module6>
+  <heading>Working Capital Management</heading>
+  <subheading>
+  </subheading>
+ </module6>
+ <module7>
+  <heading>Corporate & Financial Restructuring</heading>
+  <subheading>
+  </subheading>
+ </module7>
+ <module8>
+  <heading>Financial Budgeting-Process & Evaluation</heading>
+  <subheading>
+  </subheading>
+ </module8>
+ <module9>
+  <heading>Responsibilty Centre Management & Transfer Pricing Decisions</heading>
+  <subheading>
+  </subheading>
+ </module9>
+ <module10>
+  <heading>Corporate Finance Aspects for International Business</heading>
+  <subheading>
+  </subheading>
+ </module10>
+ <module11>
+  <heading>Financial Dimensions of Growth & Growth Planning</heading>
+  <subheading>
+  </subheading>
+ </module11>
+</mainmodule>",85000
+Executive Development Program In Human Resource Management From XLRI Jamshedpur,Human Resources,"Build on your people management skills
+
+Effective management of human capital is critical to the success of most organizations. The function of HR is key to an organization as it enables the achievement of strategic goals. However, managing organizational performance poses an immense challenge to many HR leaders due to a lack of competent HR professionals. This course provides a comprehensive understanding of Human Resource Management and prepares participants for HR Leadership roles in the global environment. XLRI has partnered with SHRM in this course to support the capability-building of HR professionals. Society for Human Resource Management (SHRM), being the world’s largest HR membership organization, devoted to human resource management perfectly complements the academic expertise of XLRI.
+
+The program will also help the participants in their preparation for the global SHRM certification exams: SHRM CP and SHRM SCP.",Business and HR Strategy Planning | Employer Branding | Competency Based Recruitment and Selection | Employee Engagement | Grievance Handling | Managing Exit | Contract administration techniques | Learning and Development | Organizational Design and Change | HR Analytics,"Graduates (10+2+3) or Diploma Holders (only 10+2+3) from a recognized university (UGC/AICTE/DEC/AIU/State Government) in any discipline with minimum of 4 years of work experience in the field of HR as on | Non-HR Managers, with a minimum of 4 years of work experience planning career shift to HR roles or positions involving people management responsibilities. | Graduation or equivalent degree from any recognized University or Institution in their respective country with minimum of 4 years of work experience in the field of HR as on | Non-HR Managers, with a minimum of 4 years of work experience planning career shift to HR roles or positions involving people management responsibilities ","<?xml version=""1.0""?>
+<mainmodule>
+ <module1>
+  <heading>Creating a Business aligned HR</heading>
+  <subheading>
+   <item1>Role of HR in Organizations</item1>
+   <item2>Structure of the HR Function</item2>
+   <item3>HR In the Global Context</item3>
+   <item4>Business and HR Strategy</item4>
+   <item5>Change and culture metrics</item5>
+   <item6>Approaches for linking organizational and HR Strategies</item6>
+  </subheading>
+ </module1>
+ <module2>
+  <heading>Staffing and Recruitment</heading>
+  <subheading>
+   <item1>Employee lifecycle phases</item1>
+   <item2>Employer Branding</item2>
+   <item3>Competency Based Recruitment and Selection</item3>
+   <item4>Recruitment and Selection approaches</item4>
+   <item5>Social media in recruitment</item5>
+   <item6>Employee Engagement</item6>
+  </subheading>
+ </module2>
+ <module3>
+  <heading>Ensuring a Legally Compliant HR</heading>
+  <subheading>
+   <item1>Industrial relations</item1>
+   <item2>Employment Law and Regulations</item2>
+   <item3>Employee Collectives and their Dynamics</item3>
+   <item4>Disciplinary techniques</item4>
+   <item5>Grievance Handling</item5>
+   <item6>Managing Exit</item6>
+   <item7>Alternative dispute resolution techniques</item7>
+   <item8>Collective bargaining process</item8>
+   <item9>Contract administration techniques</item9>
+   <item10>International Labor Organization labor standards</item10>
+  </subheading>
+ </module3>
+ <module4>
+  <heading>Learning and Development</heading>
+  <subheading>
+   <item1>Changing Role of Learning & Development</item1>
+   <item2>Training design and implementation</item2>
+   <item3>Adult Learning and Learning theories</item3>
+   <item4>Career Development and Career Management</item4>
+   <item5>Leadership Development</item5>
+   <item6>Measuring L&D Effectiveness</item6>
+   <item7>Coaching and Mentoring</item7>
+  </subheading>
+ </module4>
+ <module5>
+  <heading>Total Rewards and Performance Management</heading>
+  <subheading>
+   <item1>Pay practices, policies, approaches, systems, and issues</item1>
+   <item2>Benefits & Perquisites</item2>
+   <item3>Total Rewards philosophy</item3>
+   <item4>Managing international assignments</item4>
+   <item5>Performance Management Systems & Processes</item5>
+   <item6>Performance management theories, structures, and approaches</item6>
+   <item7>Multi Rater Feedback Systems</item7>
+  </subheading>
+ </module5>
+ <module6>
+  <heading>Technology, Data, and HR Analytics</heading>
+  <subheading>
+   <item1>Analytical Foundations of HR Measurement</item1>
+   <item2>Predictive Analytics</item2>
+   <item3>Impacting Productivity and the Bottom Line</item3>
+   <item4>Predictive Management</item4>
+   <item5>Balanced Scorecard and HR scorecard</item5>
+  </subheading>
+ </module6>
+ <module7>
+  <heading>Organizational Design and Change</heading>
+  <subheading>
+   <item1>Organizational Effectiveness</item1>
+   <item2>Organizational Structure and Design</item2>
+   <item3>Organizational Culture</item3>
+   <item4>Organizational Change</item4>
+  </subheading>
+ </module7>
+</mainmodule>",107500
